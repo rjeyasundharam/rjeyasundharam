@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rjeyasundharam
-- 👀 I’m interested in travel & Coding
+- 👀 I’m interested in Travel & Coding
 - 🌱 I’m currently learning about Whatsapp Cloud & Drupal Api
 
 <!---
